@@ -26,7 +26,7 @@ Base de datos
 
 * SQLite
 
-# Herramientas
+Herramientas
 
 * Git & GitHub
 * Notion
